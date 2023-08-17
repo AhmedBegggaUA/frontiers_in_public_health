@@ -1,4 +1,4 @@
-The data folder contains the CSVs files with the predictions given by the different predictors presented in:
+The data folder contains the CSV files with the predictions given by the different predictors presented in:
 
 [1] A. Begga, Ò. Garibo-i-Orts, S. de María-García, F. Escolano, M.A. Lozano, N. Oliver, and J.A. Conejero. Predicting COVID-19 pandemic waves, including vaccination data with deep learning
 
